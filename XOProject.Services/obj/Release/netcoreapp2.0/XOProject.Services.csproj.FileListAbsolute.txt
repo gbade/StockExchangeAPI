@@ -1,0 +1,12 @@
+C:\Users\GBADEBO\Source\Repos\CrossExchange\XOProject.Services\bin\Release\netcoreapp2.0\XOProject.Services.deps.json
+C:\Users\GBADEBO\Source\Repos\CrossExchange\XOProject.Services\bin\Release\netcoreapp2.0\XOProject.Services.dll
+C:\Users\GBADEBO\Source\Repos\CrossExchange\XOProject.Services\bin\Release\netcoreapp2.0\XOProject.Services.pdb
+C:\Users\GBADEBO\Source\Repos\CrossExchange\XOProject.Services\bin\Release\netcoreapp2.0\XOProject.Repository.dll
+C:\Users\GBADEBO\Source\Repos\CrossExchange\XOProject.Services\bin\Release\netcoreapp2.0\XOProject.Repository.pdb
+C:\Users\GBADEBO\Source\Repos\CrossExchange\XOProject.Services\obj\Release\netcoreapp2.0\XOProject.Services.csprojAssemblyReference.cache
+C:\Users\GBADEBO\Source\Repos\CrossExchange\XOProject.Services\obj\Release\netcoreapp2.0\XOProject.Services.csproj.CoreCompileInputs.cache
+C:\Users\GBADEBO\Source\Repos\CrossExchange\XOProject.Services\obj\Release\netcoreapp2.0\XOProject.Services.AssemblyInfoInputs.cache
+C:\Users\GBADEBO\Source\Repos\CrossExchange\XOProject.Services\obj\Release\netcoreapp2.0\XOProject.Services.AssemblyInfo.cs
+C:\Users\GBADEBO\Source\Repos\CrossExchange\XOProject.Services\obj\Release\netcoreapp2.0\XOProject.Services.csproj.CopyComplete
+C:\Users\GBADEBO\Source\Repos\CrossExchange\XOProject.Services\obj\Release\netcoreapp2.0\XOProject.Services.dll
+C:\Users\GBADEBO\Source\Repos\CrossExchange\XOProject.Services\obj\Release\netcoreapp2.0\XOProject.Services.pdb

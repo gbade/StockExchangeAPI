@@ -1,0 +1,17 @@
+C:\Users\GBADEBO\Source\Repos\CrossExchange\UnitTests\XOProject.Repository.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\GBADEBO\Source\Repos\CrossExchange\UnitTests\XOProject.Repository.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\GBADEBO\Source\Repos\CrossExchange\UnitTests\XOProject.Repository.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\GBADEBO\Source\Repos\CrossExchange\UnitTests\XOProject.Repository.Tests\bin\Debug\netcoreapp2.0\XOProject.Repository.Tests.deps.json
+C:\Users\GBADEBO\Source\Repos\CrossExchange\UnitTests\XOProject.Repository.Tests\bin\Debug\netcoreapp2.0\XOProject.Repository.Tests.runtimeconfig.json
+C:\Users\GBADEBO\Source\Repos\CrossExchange\UnitTests\XOProject.Repository.Tests\bin\Debug\netcoreapp2.0\XOProject.Repository.Tests.runtimeconfig.dev.json
+C:\Users\GBADEBO\Source\Repos\CrossExchange\UnitTests\XOProject.Repository.Tests\bin\Debug\netcoreapp2.0\XOProject.Repository.Tests.dll
+C:\Users\GBADEBO\Source\Repos\CrossExchange\UnitTests\XOProject.Repository.Tests\bin\Debug\netcoreapp2.0\XOProject.Repository.Tests.pdb
+C:\Users\GBADEBO\Source\Repos\CrossExchange\UnitTests\XOProject.Repository.Tests\bin\Debug\netcoreapp2.0\XOProject.Repository.dll
+C:\Users\GBADEBO\Source\Repos\CrossExchange\UnitTests\XOProject.Repository.Tests\bin\Debug\netcoreapp2.0\XOProject.Repository.pdb
+C:\Users\GBADEBO\Source\Repos\CrossExchange\UnitTests\XOProject.Repository.Tests\obj\Debug\netcoreapp2.0\XOProject.Repository.Tests.csprojAssemblyReference.cache
+C:\Users\GBADEBO\Source\Repos\CrossExchange\UnitTests\XOProject.Repository.Tests\obj\Debug\netcoreapp2.0\XOProject.Repository.Tests.csproj.CoreCompileInputs.cache
+C:\Users\GBADEBO\Source\Repos\CrossExchange\UnitTests\XOProject.Repository.Tests\obj\Debug\netcoreapp2.0\XOProject.Repository.Tests.AssemblyInfoInputs.cache
+C:\Users\GBADEBO\Source\Repos\CrossExchange\UnitTests\XOProject.Repository.Tests\obj\Debug\netcoreapp2.0\XOProject.Repository.Tests.AssemblyInfo.cs
+C:\Users\GBADEBO\Source\Repos\CrossExchange\UnitTests\XOProject.Repository.Tests\obj\Debug\netcoreapp2.0\XOProject.Repository.Tests.csproj.CopyComplete
+C:\Users\GBADEBO\Source\Repos\CrossExchange\UnitTests\XOProject.Repository.Tests\obj\Debug\netcoreapp2.0\XOProject.Repository.Tests.dll
+C:\Users\GBADEBO\Source\Repos\CrossExchange\UnitTests\XOProject.Repository.Tests\obj\Debug\netcoreapp2.0\XOProject.Repository.Tests.pdb

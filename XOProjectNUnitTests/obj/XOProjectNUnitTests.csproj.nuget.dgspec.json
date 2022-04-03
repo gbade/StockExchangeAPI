@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProjectNUnitTests\\XOProjectNUnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Api\\XOProject.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Api\\XOProject.Api.csproj",
+        "projectName": "XOProject.Api",
+        "projectPath": "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Api\\XOProject.Api.csproj",
+        "packagesPath": "C:\\Users\\GBADEBO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GBADEBO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Repository\\XOProject.Repository.csproj": {
+                "projectPath": "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Repository\\XOProject.Repository.csproj"
+              },
+              "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Services\\XOProject.Services.csproj": {
+                "projectPath": "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Services\\XOProject.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Repository\\XOProject.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Repository\\XOProject.Repository.csproj",
+        "projectName": "XOProject.Repository",
+        "projectPath": "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Repository\\XOProject.Repository.csproj",
+        "packagesPath": "C:\\Users\\GBADEBO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GBADEBO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Services\\XOProject.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Services\\XOProject.Services.csproj",
+        "projectName": "XOProject.Services",
+        "projectPath": "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Services\\XOProject.Services.csproj",
+        "packagesPath": "C:\\Users\\GBADEBO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GBADEBO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Repository\\XOProject.Repository.csproj": {
+                "projectPath": "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Repository\\XOProject.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProjectNUnitTests\\XOProjectNUnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProjectNUnitTests\\XOProjectNUnitTests.csproj",
+        "projectName": "XOProjectNUnitTests",
+        "projectPath": "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProjectNUnitTests\\XOProjectNUnitTests.csproj",
+        "packagesPath": "C:\\Users\\GBADEBO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProjectNUnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\GBADEBO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Api\\XOProject.Api.csproj": {
+                "projectPath": "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Api\\XOProject.Api.csproj"
+              },
+              "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Repository\\XOProject.Repository.csproj": {
+                "projectPath": "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Repository\\XOProject.Repository.csproj"
+              },
+              "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Services\\XOProject.Services.csproj": {
+                "projectPath": "C:\\Users\\GBADEBO\\Source\\Repos\\CrossExchange\\XOProject.Services\\XOProject.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

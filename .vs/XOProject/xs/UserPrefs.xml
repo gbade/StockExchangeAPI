@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{62E4DEEC-BB13-453C-9CF2-0D0B122D7F55}|XOProject">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Readme.txt">
+    <Files>
+      <File FileName="XOProject.Repository/ExchangeContext.cs" Line="1" Column="1" />
+      <File FileName="XOProject.Services/GenericService.cs" />
+      <File FileName="XOProjectUnitTests/XOProject.Api.Tests/AnalyticsControllerTest.cs" />
+      <File FileName="Readme.txt" Line="1" Column="1" />
+      <File FileName="XOProjectUnitTests/XOProject.Repository.Tests/ShareRepositoryTests.cs" />
+      <File FileName="XOProject.Repository/IDataSeed.cs" />
+      <File FileName="XOProject.Repository/IGenericRepository.cs" />
+      <File FileName="XOProject.Repository/RepositoryModule.cs" />
+      <File FileName="XOProject.Repository/GenericRepository.cs" />
+      <File FileName="XOProject.Repository/Exchange/PortfolioRepository.cs" />
+      <File FileName="XOProject.Repository/Exchange/ShareRepository.cs" />
+      <File FileName="XOProject.Repository/Exchange/TradeRepository.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XOProject" expanded="True">
+            <Node name="Solution Items" expanded="True">
+              <Node name="/Users/deboayangbile/Projects/StockExchangeAPI/Readme.txt" selected="True" />
+            </Node>
+            <Node name="XOProject.Api" expanded="True" />
+            <Node name="XOProject.Repository" expanded="True">
+              <Node name="Exchange" expanded="True" />
+            </Node>
+            <Node name="XOProject.Services" expanded="True" />
+            <Node name="XOProjectUnitTests" expanded="True">
+              <Node name="XOProject.Api.Tests" expanded="True" />
+              <Node name="XOProject.Repository.Tests" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="XOProject" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.XOProject.Api PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
